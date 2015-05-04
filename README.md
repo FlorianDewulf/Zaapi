@@ -1,4 +1,4 @@
-# Zaapi
+# Zaapy
 This project was a kind of game created at the end of my second Year of {EPITECH}.
 
 This project is not perfect, there is a segmentation fault on a command of the project (can't remember which one, I think it's 'broadcast').
